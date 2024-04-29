@@ -476,6 +476,8 @@ zk:zero-knowledge proof，零知识证明，可以证明一个人拥有某个秘
 
 ZK-Rollups: 一种Layer-2扩展解决方案，使用零知识证明来扩大以太坊的处理能力。
 
+zks：以太坊二层方案，使用ZK-R；llup开发，目前是史上最长的PUA项目。
+
 ## WTF gm黑宝书贡献者
 <div align="center">
   <h4 align="center">
